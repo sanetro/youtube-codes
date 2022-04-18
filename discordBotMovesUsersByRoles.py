@@ -5,7 +5,7 @@ intents.members = True
 
 
 bot = commands.Bot(intents=intents, command_prefix='$') 
-TOKEN = "ODgxNjgzODkzNjkzMDY3MzE0.YSwaHQ.taCIUYeCicpRSKGICev_HXug878"
+TOKEN = "" # Put here your token
 
 @bot.command()
 async def move(ctx, channel : discord.VoiceChannel, *members : discord.Member):

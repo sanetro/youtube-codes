@@ -9,3 +9,4 @@ discord-bot-riot-api-part1.py
 Click any of fallowing links:
 * [discord-bot-riot-api-part1.py](https://youtu.be/clTk21DfALg): Bot searching League of legends Players Profiles | Discord.py | Riot API | part 1
 * [discord-bot-riot-api-part2.py](https://youtu.be/ONLLxVPCf4o): Bot searching League of legends Players Profiles | Discord.py | Riot API | part 2
+* [discord-bot-riot-api-part3.py](https://youtu.be/rVwYT2YgCyY): Bot searching League of legends Players Profiles | Discord.py | Riot API | part 3
